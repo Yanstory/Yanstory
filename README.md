@@ -1,5 +1,4 @@
-### *When the Spirit is running on the road paved with white pebbles,*
-### *the whole world will move around him.*
+### *When the Spirit is running on the road paved with white pebbles, <br>the whole world will move around him.*
 
 - Male
 - 1999
@@ -7,4 +6,4 @@
 - Somthing interesting
 
 **Wishlist**
-- learn drawing
+- Learn drawing
